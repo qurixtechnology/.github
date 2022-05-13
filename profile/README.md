@@ -1,7 +1,7 @@
 ## Qurix Technology 
 
 
-** Here some important links of the [qurix Technology](https://www.qurix.tech/) organization: **
+**Here some important links of the [qurix Technology](https://www.qurix.tech/) organization:**
 
-- Infrastructure
+- 🔨 Infrastructure
   - Airflow
