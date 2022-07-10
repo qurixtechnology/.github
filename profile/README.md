@@ -1,15 +1,20 @@
 ## Qurix Technology 
 
 
-**Here some important links of the [qurix Technology](https://www.qurix.tech/) organization:**
+**Here some important links of the [qurix Technology](https://www.qurix.tech/)** organization:
 
 ### Qurix Base
 
-- [Infrastructure](https://github.com/qurixtechnology/infrastructure)
-   - [Sunrise Terraform](https://github.com/qurixtechnology/infrastructure/tree/main/sunrise/terraform)
-   - [Sunrise Ingest: Azure Functions](https://github.com/qurixtechnology/infrastructure/tree/main/sunrise/ingest/functions)
-- [Base Worflows](https://github.com/qurixtechnology/base-workflows)
-- [Airflow-Dags](https://github.com/qurixtechnology/airflow-dags)
+- [Base Worflows](https://github.com/qurixtechnology/base-workflows): internal [Github Action](https://docs.github.com/en/actions) reusable workflows
+- Airflow:
+   - [Airflow-Dags](https://github.com/qurixtechnology/airflow-dags): example DAGs
+   - [Airflow-Local](https://github.com/qurixtechnology/airflow-local): how-to set up a local Airflow instance
+
+### Sunrise
+
+- [Infrastructure](https://github.com/qurixtechnology/sunrise-infrastructure)
+- [Ingest](https://github.com/qurixtechnology/sunrise-ingest)
+- [Transform](https://github.com/qurixtechnology/sunrise-transform)
 
 ### Projects
 
